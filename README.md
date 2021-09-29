@@ -5,7 +5,7 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=gkuer&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkuer&amp;layout=compact&amp;hide=Visual%20Basic)
 
-[![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkuer)](https://solved.ac/sakwook2)
+[![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkuer)](https://solved.ac/gkuer)
 
 
 ## University
