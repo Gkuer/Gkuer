@@ -14,8 +14,8 @@
 
 ## Activity
 - 삼성 SW 역량테스트 IM 취득: 2021.08
-- 삼성 청년 소프트웨어 아카데미 6기(SSAFY - Samsung Software Academy For Youth): 2021.07 ~ 
 - Achieve Baekjoon Gold Tier : 2021.07.30
+- 삼성 청년 소프트웨어 아카데미 6기(SSAFY - Samsung Software Academy For Youth): 2021.07 ~ 
 - 인공지능 기본.중급과정-AI기술활용(한국IT비즈니스진흥협회) 수료: 2021.03.08 ~ 2021.04.04
 - 위병소 출입기록 시스템 및 군 관련 프로그램 개발, 사단장 취업추천서 수여: 2021.01 ~ 2021.05
 - 인공지능 군특화과정(한국IT비즈니스진흥협회) 수료: 2021.01.18 ~ 2021.01.31
