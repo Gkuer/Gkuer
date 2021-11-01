@@ -38,13 +38,10 @@
 
 - Languages
   - Python
-  - JavaScript
 - Frameworks
   - Django
   - Flask
 - AI
-  - Tensorflow
-  - TeachableMachine
 - Problem Solving
   - Baekjoon
   - SWEA
