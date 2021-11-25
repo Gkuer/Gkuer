@@ -32,7 +32,7 @@
 
 ## Project(Team)
 
-- 
+- 인공지능을 활용한 색채 기반 영화 추천 사이트
 
 ## Interest
 
