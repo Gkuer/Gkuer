@@ -19,7 +19,7 @@
 
 - 프로젝트 최우수상 (1등) - 삼성전자 (2021.11.25)
 - 성적우수상 (3등) - 삼성전자 (2021.11.25)
-- <a href="README.assets/사단장_취업추천서.png">취업추천서 (프로그램 개발) -  제27보병사단장, 소장 (Major General) (2021.04.30)</a>
+- <a href="README.assets/military_award.png" target="_blank">취업추천서 (프로그램 개발) -  제27보병사단장, 소장 (Major General) (2021.04.30)</a>
 
 ## Activity
 
