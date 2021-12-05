@@ -44,7 +44,7 @@
 
 ## Project(Team)
 
-- <a href="https://github.com/Gkuer/PrismFilmStudio" target="_blank">PrismFilmStudio, 인공지능을 활용한 색채 기반 영화 추천</a> - SSAFY 프로젝트 최우수상 (1등) 수상
+- <a href="https://github.com/Gkuer/PrismFilmStudio" target="_blank">PrismFilmStudio, 인공지능을 활용한 색채 기반 영화 추천</a>
 
 
 
