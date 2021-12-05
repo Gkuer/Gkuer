@@ -44,7 +44,7 @@
 
 ## Project(Team)
 
-- <a href="https://github.com/Gkuer/PrismFilmStudio" target="_blank">PrismFilmStudio, 인공지능을 활용한 색채 기반 영화 추천</a>
+- <a href="https://github.com/Gkuer/Gkuer9-PrismFilmStudio" target="_blank">PrismFilmStudio, 인공지능을 활용한 색채 기반 영화 추천</a>
 
 
 
