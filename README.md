@@ -21,6 +21,8 @@
 - 성적우수상 (3등) - 삼성전자 (2021.11.25)
 - <a href="README.assets/military_award.png" target="_blank">취업추천서 (프로그램 개발) -  제27보병사단장, 소장 (Major General) (2021.04.30)</a>
 
+
+
 ## Activity
 
 - 삼성 SW 역량테스트 IM 취득: 2021.08
@@ -35,14 +37,14 @@
 ## Project(Solo)
 
 
-- Meokda 먹다, 주변 맛집 동영상 플랫폼
-- 인공지능이 알려주는 '내 외모 어때?'
+- <a href="https://github.com/Gkuer/Gkuer7-Meokda" target="_blank">Meokda 먹다, 주변 맛집 동영상 플랫폼</a>
+- <a href="https://github.com/Gkuer/Gkuer1-2-HowMyFace" target="_blank">인공지능이 알려주는 '내 외모 어때?'</a>
 
 
 
 ## Project(Team)
 
-- PrismFilmStudio, 인공지능을 활용한 색채 기반 영화 추천 - SSAFY 프로젝트 최우수상 (1등) 수상
+- <a href="https://github.com/Gkuer/PrismFilmStudio" target="_blank">PrismFilmStudio, 인공지능을 활용한 색채 기반 영화 추천</a> - SSAFY 프로젝트 최우수상 (1등) 수상
 
 
 
