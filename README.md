@@ -1,20 +1,14 @@
-[ ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGkuer&count_bg=%23260000&title_bg=%23260000&icon=github.svg&icon_color=%23E0E504&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Gkuer
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=260000&height=150&fontColor=f7ee89&section=header&text=Gkuer&fontSize=90)
+## Cards
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGkuer&count_bg=%239FB0FF&title_bg=%235A6DFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-
-
-
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=gkuer&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=maroongold&card_width=200)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkuer&amp;layout=compact&amp;hide=Visual%20Basic&theme=maroongold&card_width=250)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=gkuer&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=maroongold)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkuer&amp;layout=compact&amp;hide=Visual%20Basic&card_width=250)
 
 [![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkuer)](https://solved.ac/gkuer)
 
 
-
-</div>
 
 ## University
 
@@ -58,31 +52,26 @@
 ## Interest
 
 - Languages
+
   - Python
   - Java
   - JavaScript
-  
-- FE0
-  
-  - HTML5
-  - CSS3
-  - Vue
-  
-- BE
-  
+
+- Frameworks
+
   - Django
   - Spring
-  
-- Full-Stack-Frameworks
-  - Django
+  - Vue
 
 - AI
 
 - Problem Solving
+
   - Baekjoon
   - SWEA
 
   
 
 ## Contacts
+
 - Email - gkuer95@gmail.com
