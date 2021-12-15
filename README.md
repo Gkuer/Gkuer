@@ -1,5 +1,3 @@
-<div style ="text-align: center;">
-
 [ ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGkuer&count_bg=%23260000&title_bg=%23260000&icon=github.svg&icon_color=%23E0E504&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=260000&height=150&fontColor=f7ee89&section=header&text=Gkuer&fontSize=90)
@@ -10,13 +8,11 @@
 
 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=gkuer&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=maroongold&card_width=200)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkuer&amp;layout=compact&amp;hide=Visual%20Basic&theme=maroongold&card_width=300)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=gkuer&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=maroongold&card_width=200)
 
 [![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkuer)](https://solved.ac/gkuer)
 
 
-
-</div>
 
 ## University
 
