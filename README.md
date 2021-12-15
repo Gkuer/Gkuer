@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=260000&height=300&fontColor=f7ee89&section=header&text=Gkuer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Gkuer's%20Github&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=rect&color=260000&height=300&fontColor=f7ee89&section=header&text=Gkuer&fontSize=90)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGkuer&count_bg=%239FB0FF&title_bg=%235A6DFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
