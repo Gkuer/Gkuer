@@ -1,4 +1,6 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGkuer&count_bg=%23260000&title_bg=%23260000&icon=github.svg&icon_color=%23E0E504&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div style ="text-align: center;">
+
+[ ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGkuer&count_bg=%23260000&title_bg=%23260000&icon=github.svg&icon_color=%23E0E504&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=260000&height=150&fontColor=f7ee89&section=header&text=Gkuer&fontSize=90)
 
@@ -13,6 +15,8 @@
 [![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkuer)](https://solved.ac/gkuer)
 
 
+
+</div>
 
 ## University
 
