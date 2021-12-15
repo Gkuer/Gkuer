@@ -1,6 +1,5 @@
-# Gkuer
+![header](https://capsule-render.vercel.app/api?type=waving&color=#260000&height=300&section=header&text=Gkuer&fontSize=90)
 
-## Cards
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGkuer&count_bg=%239FB0FF&title_bg=%235A6DFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=gkuer&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=maroongold)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkuer&amp;layout=compact&amp;hide=Visual%20Basic)
