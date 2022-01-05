@@ -63,6 +63,10 @@
 
 - AI
 
+- etc
+
+  - HTML, CSS, SQLite, Git, Jira, Jenkins, Docker, Notion, AWS, Netlify
+
 - Problem Solving
 
   - Baekjoon
