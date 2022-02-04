@@ -8,7 +8,7 @@
 
 ## University
 
-- 한국외국어대학교(Hankuk University of Foreign Studies) 서울캠퍼스 : (2014.02 ~ 2019.02)
+- 한국외국어대학교 서울캠퍼스 : 2014.02 ~ 2019.02
 
 
 
