@@ -12,6 +12,8 @@
 
 
 
+<br>
+
 ## Awards
 
 - <a href="README.assets/프로젝트_1등.JPG" target="_blank">프로젝트 최우수상 (1등) - 삼성전자 (2021.11)</a>
@@ -19,6 +21,8 @@
 - <a href="README.assets/military_award.png" target="_blank">취업추천서 (프로그램 개발) -  제27보병사단장, 소장 (Major General) (2021.04)</a>
 
 
+
+<br>
 
 ## Activity
 
@@ -31,6 +35,8 @@
 
 
 
+<br>
+
 
 ## Project(Solo)
 
@@ -40,11 +46,15 @@
 
 
 
+<br>
+
 ## Project(Team)
 
 - <a href="https://github.com/Gkuer/Gkuer9-PrismFilmStudio" target="_blank">PrismFilmStudio, 인공지능을 활용한 색채 기반 영화 추천</a>
 
 
+
+<br>
 
 ## Interest
 
@@ -53,25 +63,24 @@
   - Python
   - Java
   - JavaScript
-
 - Frameworks
 
   - Django
   - Spring
   - Vue
-
 - AI
-
 - etc
 
   - AWS, Git, Jira, Jenkins, Docker, HTML, CSS,  Notion, Netlify, MySql,  SQLite ...
-
 - Problem Solving
 
   - Baekjoon
   - SWEA
 
-  
+
+
+
+<br>
 
 ## Contacts
 
