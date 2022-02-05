@@ -29,7 +29,6 @@
 ## Activity
 
 - Achieve Baekjoon Platinum Tier : 2022.02
-- 삼성 SW 역량테스트 IM 취득: 2021.08
 - Achieve Baekjoon Gold Tier : 2021.07
 - 삼성 청년 소프트웨어 아카데미 6기(SSAFY - Samsung Software Academy For Youth): 2021.07 ~ 
 - 인공지능 기본.중급과정 - AI기술활용 (한국IT비즈니스진흥협회) 수료: 2021.03 ~ 2021.04
