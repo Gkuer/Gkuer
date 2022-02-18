@@ -52,6 +52,7 @@
 ## Project(Team)
 
 - <a href="https://github.com/Gkuer/Gkuer9-PrismFilmStudio" target="_blank">PrismFilmStudio, 인공지능을 활용한 색채 기반 영화 추천</a>
+- <a href="https://github.com/Gkuer/Gkuer10-TogetherHomt" target="_blank">투게더홈트, 우리회사 운동시키기 SNS</a>
 
 
 
