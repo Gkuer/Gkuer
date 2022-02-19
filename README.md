@@ -85,15 +85,15 @@
 
 ## 🚴‍♂️ Project(Team)
 
-- <a href="https://github.com/Gkuer/Gkuer9-PrismFilmStudio" target="_blank">PrismFilmStudio, 인공지능을 활용한 색채 기반 영화 추천
-
-  Color-based movie recommendations using artificial intelligence</a>
-
-<br>
-
 - <a href="https://github.com/Gkuer/Gkuer10-TogetherHomt" target="_blank">투게더홈트, 우리회사 운동시키기 SNS 
 
   SNS to make our company work out</a>
+
+<br>
+
+- <a href="https://github.com/Gkuer/Gkuer9-PrismFilmStudio" target="_blank">PrismFilmStudio, 인공지능을 활용한 색채 기반 영화 추천
+
+  Color-based movie recommendations using artificial intelligence</a>
 
 
 
