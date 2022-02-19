@@ -112,11 +112,12 @@
 <br>
 
 - DevOps
+
   - AWS - EC2, Route53
   - MySQL, SQLite
   - Jenkins, Docker
-  - Nginx
 
+  - Nginx
 
 <br>
 
@@ -124,18 +125,18 @@
   - HTML 5, CSS3,  JS(ES6)
   - Vue.js, VueX, Django
 
+
 <br>
 
 - Collaboration & Tools
+
   - Jira
   - Mattermost, Discord
   - IntelliJ, VS Code, Pycharm
+
   - Git
 
 
-
-
-<br>
 
 ## 💁🏻 Contacts
 
