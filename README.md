@@ -21,14 +21,14 @@
 
   Project Top Prize - Samsung Electronics (2021.11)</a>
 
-  <br>
+<br>
 
 - <a href="README.assets/성적우수_3등.JPG" target="_blank">성적우수상 (3등) - 삼성전자 (2021.11)
 
   Achievement Excellence Award 3rd - Samsung Electronics (2021.11)</a>
-  
-  <br>
-  
+
+<br>
+
 - <a href="README.assets/military_award.png" target="_blank">취업추천서 (프로그램 개발) -  제27보병사단장, 소장 (2021.04)
 
   Letter of Recommendation - Korea Army Major General (2021.04)</a>
@@ -41,11 +41,11 @@
 
 - Achieve Baekjoon Platinum Tier : 2022.02
 
-  <br>
+<br>
 
 - Achieve Baekjoon Gold Tier : 2021.07
 
-  <br>
+<br>
 
 - 삼성 청년 소프트웨어 아카데미 6기 (SSAFY) : 2021.07 ~ <br>
   Samsung Software Academy For Youth (SSAFY) : 2021.07 ~
