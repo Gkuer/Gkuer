@@ -106,7 +106,6 @@
   - Java, Python
   - Spring Boot, Spring Data JPA, Django
   - JPA
-  
   - Gradle
 
 <br>
@@ -116,15 +115,14 @@
   - AWS - EC2, Route53
   - MySQL, SQLite
   - Jenkins, Docker
-
   - Nginx
 
 <br>
 
 - Frontend
-  - HTML 5, CSS3,  JS(ES6)
-  - Vue.js, VueX, Django
 
+  - HTML5, CSS3,  JS(ES6)
+  - Vue.js, VueX, Django
 
 <br>
 
@@ -133,10 +131,9 @@
   - Jira
   - Mattermost, Discord
   - IntelliJ, VS Code, Pycharm
-
   - Git
 
-
+<br>
 
 ## 💁🏻 Contacts
 
