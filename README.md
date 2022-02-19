@@ -1,14 +1,12 @@
 # Gkuer
 
-## Cards
-
 [![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkuer)](https://solved.ac/gkuer)
 
 
 
 <br>
 
-## University
+## 🏛 University
 
 - 한국외국어대학교 서울캠퍼스 : 2014.02 ~ 2019.02 <br>
   Hankuk University of Foreign Studies, Seoul Campus : 2014.02 ~ 2019.02
@@ -17,7 +15,7 @@
 
 <br>
 
-## Awards
+## 🏅 Awards
 
 - <a href="README.assets/프로젝트_1등.JPG" target="_blank">프로젝트 최우수상 (1등) - 삼성전자 (2021.11)
 
@@ -34,7 +32,7 @@
 
 <br>
 
-## Activity
+## 👨🏽‍💻 Activity
 
 - Achieve Baekjoon Platinum Tier : 2022.02
 - Achieve Baekjoon Gold Tier : 2021.07
@@ -50,7 +48,7 @@
 <br>
 
 
-## Project(Solo)
+## 🚴‍♂️ Project(Solo)
 
 
 - <a href="https://github.com/Gkuer/Gkuer7-Meokda" target="_blank">Meokda 먹다, 주변 맛집 동영상 플랫폼
@@ -65,7 +63,7 @@
 
 <br>
 
-## Project(Team)
+## 🚴‍♂️ Project(Team)
 
 - <a href="https://github.com/Gkuer/Gkuer9-PrismFilmStudio" target="_blank">PrismFilmStudio, 인공지능을 활용한 색채 기반 영화 추천
 
@@ -79,32 +77,44 @@
 
 <br>
 
-## Interest
+## ⛏️ Skills
 
-- Languages
+- Backend
 
-  - Python
-  - Java
-  - JavaScript
-- Frameworks
+  - Java, Python
+  - Spring Boot, Spring Data JPA, Django
+  - JPA
+  
+  - Gradle
 
-  - Django
-  - Spring
-  - Vue
-- AI
-- etc
+<br>
 
-  - AWS, Git, Jira, Jenkins, Docker, HTML, CSS,  Notion, Netlify, MySql,  SQLite ...
-- Problem Solving
+- DevOps
+  - AWS - EC2, Route53
+  - MySQL, SQLite
+  - Jenkins, Docker
+  - Nginx
 
-  - Baekjoon
-  - SWEA
+
+<br>
+
+- Frontend
+  - HTML 5, CSS3,  JS(ES6)
+  - Vue.js, VueX, Django
+
+<br>
+
+- Collaboration & Tools
+  - Jira
+  - Mattermost, Discord
+  - IntelliJ, VS Code, Pycharm
+  - Git
 
 
 
 
 <br>
 
-## Contacts
+## 💁🏻 Contacts
 
 - Email - gkuer95@gmail.com
