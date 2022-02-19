@@ -6,7 +6,7 @@
 
 <br>
 
-## 🏛<h1>  </h1>University
+## 🏛   University
 
 - 한국외국어대학교 서울캠퍼스 : 2014.02 ~ 2019.02 <br>
   Hankuk University of Foreign Studies, Seoul Campus : 2014.02 ~ 2019.02
@@ -15,7 +15,7 @@
 
 <br>
 
-## 🏅<h1>  </h1>Awards
+## 🏅   Awards
 
 - <a href="README.assets/프로젝트_1등.JPG" target="_blank">프로젝트 최우수상 (1등) - 삼성전자 (2021.11)
 
@@ -37,7 +37,7 @@
 
 <br>
 
-## 👨🏽‍💻<h1>  </h1>Activity
+## 👨🏽‍💻   Activity
 
 - Achieve Baekjoon Platinum Tier : 2022.02
 
@@ -65,7 +65,7 @@
 <br>
 
 
-## 🚴‍♂️<h1>  </h1>Project(Solo)
+## 🚴‍♂️   Project(Solo)
 
 
 - <a href="https://github.com/Gkuer/Gkuer7-Meokda" target="_blank">Meokda 먹다, 주변 맛집 동영상 플랫폼
@@ -83,7 +83,7 @@
 
 <br>
 
-## 🚴‍♂️<h1>  </h1>Project(Team)
+## 🚴‍♂️   Project(Team)
 
 - <a href="https://github.com/Gkuer/Gkuer9-PrismFilmStudio" target="_blank">PrismFilmStudio, 인공지능을 활용한 색채 기반 영화 추천
 
@@ -99,7 +99,7 @@
 
 <br>
 
-## ⛏️<h1>  </h1> Skills
+## ⛏️   Skills
 
 - Backend
 
@@ -137,6 +137,6 @@
 
 <br>
 
-## 💁🏻<h1>  </h1>Contacts
+## 💁🏻   Contacts
 
 - Email - gkuer95@gmail.com
