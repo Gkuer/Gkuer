@@ -129,8 +129,6 @@
 - Collaboration & Tools
 
   - Jira
-  - Mattermost, Discord
-  - IntelliJ, VS Code, Pycharm
   - Git
 
 <br>
