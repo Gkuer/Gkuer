@@ -129,6 +129,7 @@
 - Collaboration & Tools
 
   - Jira
+  - Intellij, Pycharm, Vscode
   - Git
 
 <br>
