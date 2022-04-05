@@ -65,7 +65,7 @@
 
 ## 🚴‍♂️ Project(Team)
 
-- <a href="https://github.com/Gkuer/Gkuer10-TogetherHomt" target="_blank">투게더홈트, 우리회사 운동시키기 SNS 
+- <a href="https://github.com/Gkuer/Gkuer10-TogetherHomt" target="_blank">투게더홈트, 모션인식을 활용한 우리회사 운동시키기 SNS
 
   SNS to make our company work out</a>
 
