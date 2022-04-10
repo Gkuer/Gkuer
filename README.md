@@ -72,7 +72,7 @@
 
 <br>
 
-- <a href="https://github.com/Gkuer/Gkuer10-TogetherHomt" target="_blank"> 우리회사 운동시키기 SNS, 투게더홈트
+- <a href="https://github.com/Gkuer/Gkuer10-TogetherHomt" target="_blank"> 모션인식을 활용한 우리회사 운동시키기 SNS, 투게더홈트
 
   SNS to make our company work out</a>
 
