@@ -64,25 +64,6 @@
 
 <br>
 
-
-## 🚴‍♂️ Project(Solo)
-
-
-- <a href="https://github.com/Gkuer/Gkuer7-Meokda" target="_blank"> 주변 맛집 동영상 플랫폼, Meokda 먹다
-
-  Meokda, Video platform for restaurants</a>
-
-<br>
-
-
-- <a href="https://github.com/Gkuer/Gkuer1-2-HowMyFace" target="_blank">인공지능이 알려주는 '내 외모 어때?
-
-  "What do I look like?" by AI</a>
-
-
-
-<br>
-
 ## 🚴‍♂️ Project(Team)
 
 - <a href="https://github.com/Gkuer/Gkuer13-PoseSmart" target="_blank"> Vision AI를 활용한 거북목, 안구건조증 예방, PoseSmart
@@ -101,7 +82,22 @@
 
   Color-based movie recommendations using artificial intelligence</a>
 
+<br>
 
+
+## 🚴‍♂️ Project(Solo)
+
+
+- <a href="https://github.com/Gkuer/Gkuer7-Meokda" target="_blank"> 주변 맛집 동영상 플랫폼, Meokda 먹다
+
+  Meokda, Video platform for restaurants</a>
+
+<br>
+
+
+- <a href="https://github.com/Gkuer/Gkuer1-2-HowMyFace" target="_blank">인공지능이 알려주는 '내 외모 어때?
+
+  "What do I look like?" by AI</a>
 
 <br>
 
