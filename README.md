@@ -116,7 +116,7 @@
 - DevOps
 
   - Nginx, Gunicorn
-  - Docker, Jenkins
+  - Kubernetes, Docker, Jenkins
   - AWS - EC2, Cloud9, Route53
 
 <br>
