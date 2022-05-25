@@ -66,6 +66,12 @@
 
 ## 🚴‍♂️ Project(Team)
 
+- <a href="https://github.com/Gkuer/Gkuer14-Joalarm" target="_blank"> 좋아하면 누르는
+
+  LovePush </a>
+
+<br>
+
 - <a href="https://github.com/Gkuer/Gkuer13-PoseSmart" target="_blank"> Vision AI를 활용한 거북목, 안구건조증 예방, PoseSmart
 
   Prevention of Turtle Neck and Dry Eye Disease Using Vision AI, PoseSmart</a>
