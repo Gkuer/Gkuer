@@ -66,9 +66,9 @@
 
 ## 🚴‍♂️ Project(Team)
 
-- <a href="https://github.com/Gkuer/Gkuer14-Joalarm" target="_blank"> 좋아하면 누르는
+- <a href="https://github.com/Gkuer/Gkuer14-Joalarm" target="_blank"> 익명 속에서 설렘을, 좋아하면 누르는
 
-  LovePush </a>
+  Excitement in Anonymity, LovePush </a>
 
 <br>
 
