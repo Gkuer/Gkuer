@@ -6,7 +6,7 @@
 
 ## 🧬 Career
 
-- <b>아마존 -  AWS Support Engineering Team (Cloud) : 2022.06 ~ <br>Amazon - AWS Support Engineering Team (Cloud) : 2022.06 ~</b>
+- <b>Amazon - AWS Support Engineering Team (Cloud) : 2022.06 ~</b>
 
 <br>
 
