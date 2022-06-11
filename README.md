@@ -1,21 +1,37 @@
 # Gkuer
 
-[![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkuer)](https://solved.ac/gkuer)
+<br>
 
+## 🪐 Career
 
+- 아마존 -  AWS Support Engineering Team (Cloud) : 2022.06 ~
+
+  Amazon - AWS Support Engineering Team (Cloud) : 2022.06 ~
 
 <br>
 
-## 🏛 University
+- SSAFY - 삼성 청년 SW 아카데미 6기 (삼성전자 주관) : 2021.07 ~ 2022.06
+  SSAFY - Samsung SW Academy For Youth (Organized by Samsung Electronics) : 2021.07 ~ 2022.06
 
-- 한국외국어대학교 서울캠퍼스 : 2014.02 ~ 2019.02 <br>
+<br>
+
+* 27보병사단 - 프로그램 개발 및 인공지능 교육 수료 : 2019.02 ~ 2021.06
+  27th Infantry Division - Program development and AI training completion: 2019.02 ~ 2021.06
+
+<br>
+
+* 한국외국어대학교 서울캠퍼스 : 2014.02 ~ 2019.02 <br>
   Hankuk University of Foreign Studies, Seoul Campus : 2014.02 ~ 2019.02
-
-
 
 <br>
 
 ## 🏅 Awards
+
+- <a href="README.assets/프로젝트_1등.JPG" target="_blank">자율프로젝트 전국 입상 (89팀 중 상위 8팀) - 삼성전자 (2022.05)
+
+  Free Project National Prize (Top 8 teams out of 89) - Samsung Electronics (2022.05)</a>
+
+<br>
 
 - <a href="README.assets/프로젝트_1등.JPG" target="_blank">프로젝트 최우수상 (1등) - 삼성전자 (2021.11)
 
@@ -33,34 +49,34 @@
 
   Letter of Recommendation - Korea Army Major General (2021.04)</a>
 
+<br>
 
+## ⛏️ Skills
+
+- Backend
+
+  - Python, Java
+  - DRF, Springboot(Gradle), Django
+  - Mysql, Mongodb, H2, Sqlite3
+  - Django ORM, JPA
+  - Pytest, Junit5
 
 <br>
 
-## 👨🏽‍💻 Activity
+- DevOps
 
-- Achieve Baekjoon Platinum Tier : 2022.02
-
-<br>
-
-- Achieve Baekjoon Gold Tier : 2021.07
+  - Nginx, Gunicorn
+  - Kubernetes, Docker, Jenkins
+  - AWS - EC2, Cloud9, Route53
 
 <br>
 
-- 삼성 청년 소프트웨어 아카데미 6기 (SSAFY) : 2021.07 ~ <br>
-  Samsung Software Academy For Youth (SSAFY) : 2021.07 ~
+- Collaboration & Tools
 
-<br>
-
-- 인공지능 기본.중급과정 - AI기술활용 (한국IT비즈니스진흥협회) 수료 : 2021.03 ~ 2021.04 <br>
-  Basic artificial intelligence, Intermediate course - Using AI technology (Korea IT Business Promotion Association) : 2021.03 ~ 2021.04
-
-<br>
-
-- 인공지능 군특화과정 (한국IT비즈니스진흥협회) 수료 : 2021.01 ~ 2021.01 <br>
-  Artificial Intelligence Military Specialization Course (Korea IT Business Promotion Association) : 2021.01 ~ 2021.01
-
-
+  - 와이어프레임, 기능 명세서
+  - Git, Git Flow
+  - Jira
+  - Swagger (API 명세)
 
 <br>
 
@@ -107,32 +123,11 @@
 
 <br>
 
-## ⛏️ Skills
+## 👨🏽‍💻 Activity
 
-- Backend
+- Baekjoon Problem Solving
 
-  - Python, Java
-  - DRF, Springboot(Gradle), Django
-  - Mysql, Mongodb, H2, Sqlite3
-  - Django ORM, JPA
-  - Pytest, Junit5
-
-<br>
-
-- DevOps
-
-  - Nginx, Gunicorn
-  - Kubernetes, Docker, Jenkins
-  - AWS - EC2, Cloud9, Route53
-
-<br>
-
-- Collaboration & Tools
-
-  - 와이어프레임, 기능 명세서
-  - Git, Git Flow
-  - Jira
-  - Swagger (API 명세)
+  [![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkuer)](https://solved.ac/gkuer)
 
 <br>
 
