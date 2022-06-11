@@ -1,8 +1,8 @@
-<h1 align="center" ">
-  <img alt="Logo" src="README.assets/image-20220611125759893.png"/><br/>
+<h1 align="center">
+  <img alt="Logo" src="README.assets/image-20220611125759893.png">
 </h1>
 
-
+<br>
 
 ## 🪐 Career
 
