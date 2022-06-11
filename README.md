@@ -110,16 +110,7 @@
 
   - Nginx, Gunicorn
   - Kubernetes, Docker, Jenkins
-  - AWS - EC2, Cloud9, Route53
-
-<br>
-
-- Collaboration & Tools
-
-  - 와이어프레임, 기능 명세서
-  - Git, Git Flow
-  - Jira
-  - Swagger (API 명세)
+  - AWS
 
 <br>
 
