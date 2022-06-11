@@ -1,7 +1,5 @@
 # Gkuer
 
-<br>
-
 ## 🪐 Career
 
 - 아마존 -  AWS Support Engineering Team (Cloud) : 2022.06 ~ <br>
@@ -10,7 +8,7 @@
 
 <br>
 
-- SSAFY - 삼성 청년 SW 아카데미 6기 (삼성전자 주관) : 2021.07 ~ 2022.06 <br>
+- SSAFY - 삼성 청년 SW 아카데미 6기 (주관 - 삼성전자) : 2021.07 ~ 2022.06 <br>
   SSAFY - Samsung SW Academy For Youth (Organized by Samsung Electronics) : 2021.07 ~ 2022.06
 
 <br>
