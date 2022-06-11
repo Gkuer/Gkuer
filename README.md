@@ -1,8 +1,6 @@
-<h1 align="center" style="max-width: 100%;">
-  <img width="1100" alt="Logo" src="README.assets/image-20220611125759893.png.png"/><br/>
+<h1 align="center" ">
+  <img alt="Logo" src="README.assets/image-20220611125759893.png"/><br/>
 </h1>
-
-![image-20220611125759893](README.assets/image-20220611125759893.png)
 
 
 
