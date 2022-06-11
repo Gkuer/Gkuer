@@ -15,7 +15,7 @@
 
 <br>
 
-* <b>제27보병사단 - 프로그램 개발 및 인공지능 교육 수료 : 2019.02 ~ 2021.06 <br>
+* <b>제27보병사단 - 프로그램 개발 및 인공지능 교육 수료 : 2019.03 ~ 2021.06 <br>
   27th Infantry Division - Program development and AI training completion: 2019.02 ~ 2021.06</b>
 
 <br>
