@@ -51,7 +51,7 @@
 
 <br>
 
-## 🌏 Project(Team)
+## 🌏 Team Projects
 
 - <a href="https://github.com/Gkuer/Gkuer14-Joalarm" target="_blank"> 익명 속에서 설렘을, 좋아하면 누르는
 
@@ -78,7 +78,7 @@
 <br>
 
 
-## 🪐 Project(Solo)
+## 🪐 Solo Projects
 
 
 - <a href="https://github.com/Gkuer/Gkuer7-Meokda" target="_blank"> 주변 맛집 동영상 플랫폼, Meokda 먹다
