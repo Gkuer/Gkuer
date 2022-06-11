@@ -4,7 +4,7 @@
 
 <br>
 
-## 🪐 Career
+## 🧬 Career
 
 - <b>아마존 -  AWS Support Engineering Team (Cloud) : 2022.06 ~ <br>Amazon - AWS Support Engineering Team (Cloud) : 2022.06 ~</b>
 
@@ -25,7 +25,7 @@
 
 <br>
 
-## 🏅 Awards
+## 🏆 Awards
 
 - <a href="README.assets/프로젝트_1등.JPG" target="_blank">자율프로젝트 전국 입상 (89팀 중 상위 8팀) - 삼성전자 (2022.05)
 
@@ -51,7 +51,7 @@
 
 <br>
 
-## 🚴‍♂️ Project(Team)
+## 🌏 Project(Team)
 
 - <a href="https://github.com/Gkuer/Gkuer14-Joalarm" target="_blank"> 익명 속에서 설렘을, 좋아하면 누르는
 
@@ -78,7 +78,7 @@
 <br>
 
 
-## 🚴‍♂️ Project(Solo)
+## 🪐 Project(Solo)
 
 
 - <a href="https://github.com/Gkuer/Gkuer7-Meokda" target="_blank"> 주변 맛집 동영상 플랫폼, Meokda 먹다
@@ -94,7 +94,7 @@
 
 <br>
 
-## ⛏️ Skills
+## 🫧 Stacks
 
 - Backend
 
@@ -123,7 +123,7 @@
 
 <br>
 
-## 👨🏽‍💻 Activity
+## 🌈 Activity
 
 - Baekjoon Problem Solving
 
