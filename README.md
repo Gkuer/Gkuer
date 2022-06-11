@@ -1,8 +1,10 @@
+<h1 align="center" style="max-width: 100%;">
+  <img width="1100" alt="Logo" src="README.assets/image-20220611125759893.png.png"/><br/>
+</h1>
+
+![image-20220611125759893](README.assets/image-20220611125759893.png)
 
 
-![image-20220611125250732](README.assets/image-20220611125250732.png)
-
-<br>
 
 ## 🪐 Career
 
@@ -10,8 +12,8 @@
 
 <br>
 
-- <b>SSAFY - 삼성 청년 SW 아카데미 6기 (주관 - 삼성전자) : 2021.07 ~ 2022.06 <br>
-  SSAFY - Samsung SW Academy For Youth (Organized by Samsung Electronics) : 2021.07 ~ 2022.06 </b>
+- <b>SSAFY - 삼성 청년 SW 아카데미 6기 by 삼성전자 : 2021.07 ~ 2022.06 <br>
+  SSAFY - Samsung SW Academy For Youth Organized by Samsung Electronics : 2021.07 ~ 2022.06 </b>
 
 <br>
 
