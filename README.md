@@ -51,35 +51,6 @@
 
 <br>
 
-## ⛏️ Skills
-
-- Backend
-
-  - Python, Java
-  - DRF, Springboot(Gradle), Django
-  - Mysql, Mongodb, H2, Sqlite3
-  - Django ORM, JPA
-  - Pytest, Junit5
-
-<br>
-
-- DevOps
-
-  - Nginx, Gunicorn
-  - Kubernetes, Docker, Jenkins
-  - AWS - EC2, Cloud9, Route53
-
-<br>
-
-- Collaboration & Tools
-
-  - 와이어프레임, 기능 명세서
-  - Git, Git Flow
-  - Jira
-  - Swagger (API 명세)
-
-<br>
-
 ## 🚴‍♂️ Project(Team)
 
 - <a href="https://github.com/Gkuer/Gkuer14-Joalarm" target="_blank"> 익명 속에서 설렘을, 좋아하면 누르는
@@ -120,6 +91,35 @@
 - <a href="https://github.com/Gkuer/Gkuer1-2-HowMyFace" target="_blank">인공지능이 알려주는 '내 외모 어때?
 
   "What do I look like?" by AI</a>
+
+<br>
+
+## ⛏️ Skills
+
+- Backend
+
+  - Python, Java
+  - DRF, Springboot(Gradle), Django
+  - Mysql, Mongodb, H2, Sqlite3
+  - Django ORM, JPA
+  - Pytest, Junit5
+
+<br>
+
+- DevOps
+
+  - Nginx, Gunicorn
+  - Kubernetes, Docker, Jenkins
+  - AWS - EC2, Cloud9, Route53
+
+<br>
+
+- Collaboration & Tools
+
+  - 와이어프레임, 기능 명세서
+  - Git, Git Flow
+  - Jira
+  - Swagger (API 명세)
 
 <br>
 
