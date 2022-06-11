@@ -1,4 +1,8 @@
-# Gkuer
+
+
+![image-20220611123656979](README.assets/image-20220611123656979.png)
+
+<br>
 
 ## 🪐 Career
 
