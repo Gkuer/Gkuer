@@ -10,7 +10,7 @@
 
 <br>
 
-- <b>SSAFY - 삼성 청년 SW 아카데미 6기 by 삼성전자 : 2021.07 ~ 2022.06 <br>
+- <b>SSAFY - 삼성 청년 SW 아카데미 6기 (삼성전자) : 2021.07 ~ 2022.06 <br>
   SSAFY - Samsung SW Academy For Youth Organized by Samsung Electronics : 2021.07 ~ 2022.06 </b>
 
 <br>
@@ -27,7 +27,7 @@
 
 ## 🏆 Awards
 
-- <a href="README.assets/프로젝트_1등.JPG" target="_blank">자율프로젝트 전국 입상 (89팀 중 상위 8팀) - 삼성전자 (2022.05)
+- <a href="README.assets/전국_입상.JPG" target="_blank">자율프로젝트 전국 입상 (89팀 중 상위 8팀) - 삼성전자 (2022.05)
 
   Free Project National Prize (Top 8 teams out of 89) - Samsung Electronics (2022.05)</a>
 
