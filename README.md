@@ -33,13 +33,13 @@
 
 <br>
 
-- <a href="README.assets/프로젝트_1등.JPG" target="_blank">프로젝트 최우수상 (1등) - 삼성전자 (2021.11)
+- <a href="README.assets/프로젝트_1등.JPG" target="_blank">프로젝트 최우수상 (15팀 중 1등) - 삼성전자 (2021.11)
 
   Project Top Prize - Samsung Electronics (2021.11)</a>
 
 <br>
 
-- <a href="README.assets/성적우수_3등.JPG" target="_blank">성적우수상 (3등) - 삼성전자 (2021.11)
+- <a href="README.assets/성적우수_3등.JPG" target="_blank">성적우수상 (30명 중 3등) - 삼성전자 (2021.11)
 
   Achievement Excellence Award 3rd - Samsung Electronics (2021.11)</a>
 
