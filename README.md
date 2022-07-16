@@ -6,12 +6,12 @@
 
 > 🔹 **Amazon Web Services**, South Korea (2022.6 ~ Current)  
 > 🔹 **SSAFY**, Samsung Software Academy For Youth (2021.7 ~ 2022.6)  
-> 🔹 **The 27th Infantry Division**, Program Development & AI Training (2019.3 ~ 2021.6)  
+> 🔹 **The 27th Infantry Division**, Program Development & AI Training (2019.ㅎ3 ~ 2021.6)  
 > 🔹 **Hankuk University of Foreign Studies, Seoul**  (2014.3 ~ 2019.2)
 
 ### 🏆 Awards
 
-> 🔸 <a href="README.assets/전국_입상.JPG" target="_blank style" style="text-decoration: none;">**National Competition Excellence Prize** (Top 8 out of 89 teams)</a> - Samsung Electronics (2022.05)  
+> 🔸 <a href="README.assets/전국_입상.JPG" target="_blank style" style="text-decoration: none;">**National Competition Excellence Prize**</a> - Samsung Electronics (2022.05)  
 > 🔸 <a href="README.assets/프로젝트_1등.JPG" target="_blank">**Project Top Prize**</a> - Samsung Electronics (2021.11)  
 > 🔸 <a href="README.assets/성적우수_3등.JPG" target="_blank">**Academic Excellence Prize**</a> - Samsung Electronics (2021.11)  
 > 🔸 **<a href="README.assets/military_award.png" target="_blank">Letter of Recommendation for Programming</a>** - Korea Army Major General (2021.04) 
