@@ -6,7 +6,7 @@
 
 > 🔹 **Amazon Web Services**, South Korea (2022.6 ~ Current)  
 > 🔹 **SSAFY**, Samsung Software Academy For Youth (2021.7 ~ 2022.6)  
-> 🔹 **The 27th Infantry Division**, Program Development & AI Training (2019.ㅎ3 ~ 2021.6)  
+> 🔹 **The 27th Infantry Division**, Program Development & AI Training (2019.3 ~ 2021.6)  
 > 🔹 **Hankuk University of Foreign Studies, Seoul**  (2014.3 ~ 2019.2)
 
 ### 🏆 Awards
