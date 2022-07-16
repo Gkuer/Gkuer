@@ -1,26 +1,30 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)
 
-<br>
-
 ### Hi, I'm @Gkuer !
 
 ### 🧬 Career
 
 > 🔹 **Amazon Web Services**, South Korea (2022.6 ~ Current)  
-> 🔹 **SSAFY**, Samsung Software Academy For Youth (2021.7 ~ 2022.6)
-> 🔹 **The 27th Infantry Division**, Program Development & AI Training (2019.3 ~ 2021.6)
+> 🔹 **SSAFY**, Samsung Software Academy For Youth (2021.7 ~ 2022.6)  
+> 🔹 **The 27th Infantry Division**, Program Development & AI Training (2019.3 ~ 2021.6)  
 > 🔹 **Hankuk University of Foreign Studies, Seoul**  (2014.3 ~ 2019.2)
 
 ### 🏆 Awards
 
-> 🔸 **National Competition Excellence Prize** (Top 8 out of 89 teams) - Samsung Electronics (2022.05) 
-> 🔸 **Project Top Prize** - Samsung Electronics (2021.11) 
-> 🔸 **Academic Excellence Prize** - Samsung Electronics (2021.11)
+> 🔸 **National Competition Excellence Prize** (Top 8 out of 89 teams) - Samsung Electronics (2022.05)  
+> 🔸 **Project Top Prize** - Samsung Electronics (2021.11)  
+> 🔸 **Academic Excellence Prize** - Samsung Electronics (2021.11)  
 > 🔸 **Letter of Recommendation for Programming** - Korea Army Major General (2021.04)
 
 
 
 ### 👀 I'm interested in DevOps for handling with AI | Bigdata
+
+
+
+---
+
+
 
 <div align=center>
 
@@ -36,23 +40,7 @@
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
 
-
-
 </div>
-
----
-
-<div align=center>
-
-
-
-</div>
-
-<div align=center>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Taeyoung96)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 
