@@ -1,33 +1,64 @@
-<h1 align="center">
-  <img alt="Logo" src="README.assets/image-20220611125759893.png">
-</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)
 
 <br>
 
-## 🧬 Career
+### Hi, I'm @Gkuer !
 
-- <b>Amazon - AWS Support Engineering Team : 2022.06 ~</b>
+### 🧬 Career
 
-<br>
+> 🔹 **Amazon Web Services**, South Korea (2022.6 ~ Current)  
+> 🔹 **SSAFY**, Samsung Software Academy For Youth (2021.7 ~ 2022.6)
+> 🔹 **The 27th Infantry Division**, Program Development & AI Training (2019.3 ~ 2021.6)
+> 🔹 **Hankuk University of Foreign Studies, Seoul**  (2014.3 ~ 2019.2)
 
-- <b>SSAFY - 삼성 청년 SW 아카데미 6기 (삼성전자) : 2021.07 ~ 2022.06 <br>
-  SSAFY - Samsung SW Academy For Youth Organized by Samsung Electronics : 2021.07 ~ 2022.06 </b>
+### 🏆 Awards
 
-<br>
+> 🔸 **National Competition Excellence Prize** (Top 8 out of 89 teams) - Samsung Electronics (2022.05) 
+> 🔸 **Project Top Prize** - Samsung Electronics (2021.11) 
+> 🔸 **Academic Excellence Prize** - Samsung Electronics (2021.11)
+> 🔸 **Letter of Recommendation for Programming** - Korea Army Major General (2021.04)
 
-* <b>제27보병사단 - 프로그램 개발 및 인공지능 교육 수료 : 2019.03 ~ 2021.06 <br>
-  27th Infantry Division - Program development and AI training completion : 2019.02 ~ 2021.06</b>
 
-<br>
 
-* <b>한국외국어대학교 서울캠퍼스 : 2014.02 ~ 2019.02 <br>
-  Hankuk University of Foreign Studies, Seoul Campus : 2014.02 ~ 2019.02</b>
+### 👀 I'm interested in DevOps for handling with AI | Bigdata
 
-<br>
+<div align=center>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" /><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" /><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" /><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
+
+
+
+</div>
+
+---
+
+<div align=center>
+
+
+
+</div>
+
+<div align=center>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Taeyoung96)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 ## 🏆 Awards
 
-- <a href="README.assets/전국_입상.JPG" target="_blank">자율프로젝트 전국 입상 (89팀 중 상위 8팀) - 삼성전자 (2022.05)
+- <a href="README.assets/전국_입상.JPG" target="_blank style" style="text-decoration: none;">자율프로젝트 전국 입상 (89팀 중 상위 8팀) - 삼성전자 (2022.05)
 
   Free Project National Prize (Top 8 teams out of 89) - Samsung Electronics (2022.05)</a>
 
@@ -51,77 +82,4 @@
 
 <br>
 
-## 🌏 Team Projects
-
-- <a href="https://github.com/Gkuer/Gkuer14-Joalarm" target="_blank"> 익명 속에서 설렘을, 좋아하면 누르는
-
-  Excitement in Anonymity, LovePush </a>
-
-<br>
-
-- <a href="https://github.com/Gkuer/Gkuer13-PoseSmart" target="_blank"> Vision AI를 활용한 거북목, 안구건조증 예방, PoseSmart
-
-  Prevention of Turtle Neck and Dry Eye Disease Using Vision AI, PoseSmart</a>
-
-<br>
-
-- <a href="https://github.com/Gkuer/Gkuer10-TogetherHomt" target="_blank"> 모션인식을 활용한 우리회사 운동시키기 SNS, 투게더홈트
-
-  Using Motion Recognition to Exercise in Our Company SNS, Together Home Training</a>
-
-<br>
-
-- <a href="https://github.com/Gkuer/Gkuer9-PrismFilmStudio" target="_blank">인공지능을 활용한 색채 기반 영화 추천, PrismFilm Studio
-
-  Color-based movie recommendations using artificial intelligence</a>
-
-<br>
-
-
-## 🪐 Solo Projects
-
-
-- <a href="https://github.com/Gkuer/Gkuer7-Meokda" target="_blank"> 주변 맛집 동영상 플랫폼, Meokda 먹다
-
-  Meokda, Video platform for restaurants</a>
-
-<br>
-
-
-- <a href="https://github.com/Gkuer/Gkuer1-2-HowMyFace" target="_blank">인공지능이 알려주는 '내 외모 어때?
-
-  "What do I look like?" by AI</a>
-
-<br>
-
-## 🫧 Stacks
-
-- Backend
-
-  - Python, Java
-  - DRF, Springboot(Gradle), Django
-  - Mysql, Mongodb, H2, Sqlite3
-  - Django ORM, JPA
-  - Pytest, Junit5
-
-<br>
-
-- DevOps
-
-  - Nginx, Gunicorn
-  - Kubernetes, Docker, Jenkins
-  - AWS
-
-<br>
-
-## 🌈 Activity
-
-- Baekjoon Problem Solving
-
-  [![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkuer)](https://solved.ac/gkuer)
-
-<br>
-
-## 💁🏻 Contacts
-
-- Email - gkuer95@gmail.com
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
