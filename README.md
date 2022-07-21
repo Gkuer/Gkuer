@@ -18,7 +18,7 @@
 
 
 
-### 👀 I'm interested in Backend Dev & DevOps for handling AI | Bigdata
+### I'm interested in Backend Dev & DevOps for handling AI | Bigdata 👀
 
 <div align=center>
 
